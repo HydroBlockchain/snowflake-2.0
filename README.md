@@ -24,8 +24,7 @@ Snowflake is an [ERC-1484 `Provider`](https://erc1484.org/) that provides on-/of
 
   # Compiling and Deploying Snowflake Smart Contracts on Local Blockchain(GANACHE)
 
-- Navigate to `smart-contracts/snowflake`
-- Run `npm install`
+- Run `npm install` on the root directory
 - Setup Ganache and Metamask
   - spin up ganache `ganache-cli -a` (this generates 10 ethereum accounts with private keys)
   - Change the network on metamask from the `Main Ethereum Network` to `localhost:8545`
