@@ -17,7 +17,6 @@ Snowflake is an [ERC-1484 `Provider`](https://erc1484.org/) that provides on-/of
 - To run these tests:
 
   - Clone this repo: `git clone https://github.com/HydroBlockchain/snowflake-2.0.git`
-  - Navigate to `smart-contracts/snowflake`
   - Run `npm install`
   - Build dependencies with `npm run build`
   - Spin up a development blockchain: `npm run chain`
